@@ -1,8 +1,8 @@
 # Site settings
 title: Ioannis Gkanis
-#description: --
+description:h
 # baseurl: "" # the subpath of your site, e.g. /blog
-url: https://giannisgkanis.github.io/ioannisgkanis.github.io
+#url: https://giannisgkanis.github.io/ioannisgkanis.github.io
 
 # User settings
 username: Ioannis Gkanis
